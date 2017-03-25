@@ -1,6 +1,6 @@
 # Introduction
 
-**FriendCash\_R-based** is a simple R-based program which can be used to settle expenses and outlays within a group of e.g. fiends. There exists several similar softwares but FriendCash\_R-based may have some advantages compared to the smartphone applications, such as WeShare, Tricount, FriendCash, among many more:
+FriendCash\_R-based is a **very** simple R Project-based program which can be used to settle expenses and outlays within a group of e.g. fiends. There exists several similar softwares but FriendCash\_R-based may have some advantages compared to the smartphone applications, such as WeShare, Tricount, FriendCash, among many more:
 
 1. It provides an offline version as it is based on Google Sheets.
 2. It is easy and free to use and install.
