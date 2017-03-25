@@ -24,7 +24,8 @@
 
 # Other
 
-For questions, comments and suggestions, please contact  [chrlundg@gmail.com](mailto:chrlundg@gmail.com) 20-marts 2017
+For questions, comments and suggestions, please contact  [chrlundg@gmail.com](mailto:chrlundg@gmail.com) 
+20-marts 2017
 
 [1]  [https://docs.google.com/spreadsheets/d/1-5JmCRVht2YKNyiKfEH4bG59DbDZug1QKIwB27CucWU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1-5JmCRVht2YKNyiKfEH4bG59DbDZug1QKIwB27CucWU/edit?usp=sharing)
 
