@@ -33,4 +33,4 @@ For questions, comments and suggestions, please contact  [chrlundg@gmail.com](ma
 # Screen shots
 
 #
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/sceenshot.png)
+![alt tag](https://github.com/chrlundg/FriendCash_R-based/blob/master/screenshot.png)
